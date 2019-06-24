@@ -1,0 +1,16 @@
+c:\users\pc\documents\visual studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Debug\TextBasedTitanQuest.exe.config
+c:\users\pc\documents\visual studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Debug\TextBasedTitanQuest.exe
+c:\users\pc\documents\visual studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Debug\TextBasedTitanQuest.pdb
+c:\users\pc\documents\visual studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.exe
+c:\users\pc\documents\visual studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\Interop.WMPLib.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.csproj.ResolveComReference.cache
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Debug\TextBasedTitanQuest.exe.config
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\Interop.WMPLib.dll
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.csproj.ResolveComReference.cache
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.exe
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.pdb
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Debug\TextBasedTitanQuest.exe
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Debug\TextBasedTitanQuest.pdb
+D:\Programs\CsharpProjects\CSharpProjects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Debug\TextBasedTitanQuest.csprojResolveAssemblyReference.cache

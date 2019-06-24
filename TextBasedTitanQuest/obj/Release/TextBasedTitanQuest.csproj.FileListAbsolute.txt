@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Release\TextBasedTitanQuest.exe.config
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Release\Interop.WMPLib.dll
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Release\TextBasedTitanQuest.csproj.ResolveComReference.cache
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Release\TextBasedTitanQuest.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\bin\Release\TextBasedTitanQuest.pdb
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Release\TextBasedTitanQuest.exe
+C:\Users\PC\Documents\Visual Studio 2013\Projects\TextBasedTitanQuest\TextBasedTitanQuest\obj\Release\TextBasedTitanQuest.pdb
